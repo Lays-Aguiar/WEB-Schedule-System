@@ -63,8 +63,3 @@ O **Barber Shop - Schedule App** é uma aplicação web desenvolvida para gerenc
 
  A aplicação estará disponível em `http://localhost:3000`.
 
-### Preview 🎥
-
-<h1 align="center">
-  <video src="./global/preview.mp4" width="640" height="480" controls autoplay loop muted allowfullscreen/>
-</h1>
